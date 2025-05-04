@@ -71,5 +71,5 @@ hadoop jar /path/to/hadoop-streaming.jar \
 
 ## 🧠 Author
 
-Abdur Rehman
+- Abdur Rehman
 Bachelors in Data Science | Passionate about clean, explainable code & scalable systems.
